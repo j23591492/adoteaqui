@@ -1,0 +1,40 @@
+body{
+background-color: rgb(0, 0, 0);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aliceblue;
+
+}
+.container1{
+padding: 16px;
+justify-content: space-around;
+position: fixed;
+width: 65%;
+height: 35px;
+background-color: #6009f6;
+left: 40%;
+top: 0;
+font-size: larger;
+align-items: center;
+display: flex;
+
+}
+.container2{
+    width: 40%;
+    height: 4opx;
+    background-color: rgb(12, 12, 12);
+    align-items: center;
+  padding: 16px;
+  position: fixed;
+  left:0;
+  top:0;
+  display: flex;
+  justify-content: space-around;
+
+}
+body{
+    
+   
+
+}
+
+
